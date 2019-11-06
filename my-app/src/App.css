@@ -5,13 +5,6 @@ body {
     font-family: Roboto;
 
   }
-
-.viewBuilding {
-    color: #ffffff;
-    text-align: left;
-    font-family: Times-New-Roman;
-}
-
 .table-striped table-hover{
     position: fixed;
 }
