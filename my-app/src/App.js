@@ -50,7 +50,7 @@ class App extends React.Component {
                 <table className="table table-striped table-hover">
                   <tr>
                     <td>
-                      <b>Code Building</b>
+                      <h4>Code Building</h4>
                     </td>
                   </tr>
                   <BuildingList

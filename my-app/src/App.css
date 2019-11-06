@@ -7,9 +7,12 @@ body {
   }
 
 .viewBuilding {
-    color: rgb(0, 0, 0);
+    color: #ffffff;
     text-align: left;
     font-family: Times-New-Roman;
-
-    
 }
+
+.table-striped table-hover{
+    position: fixed;
+}
+
